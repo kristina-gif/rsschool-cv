@@ -28,7 +28,7 @@
 ## ABOUT ME:
 
 My motivation is to prove to myself and others that I can achieve
-anything if I put in the effort.I dream of becoming a front-end
+anything if I put in the effort. I dream of becoming a front-end
 developer.
 
 ## MY GOAL
