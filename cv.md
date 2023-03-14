@@ -34,3 +34,11 @@ developer.
 ## MY GOAL
 
 complete this wonderful course and become the best front-end developer
+
+## Сode example:
+
+```
+function even_or_odd(number) {
+  return number % 2 ? "Odd" : "Even"
+}
+```
