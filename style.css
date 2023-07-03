@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+}
+
+.left-column,
+.right-column {
+    flex: 1;
+}
+
+.left-column {
+    height: 50px;
+    background: blue;
+}
+
+.right-column {
+    height: 50px;
+    background: green;
+}
