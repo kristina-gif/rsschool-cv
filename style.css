@@ -16,3 +16,16 @@
     height: 50px;
     background: green;
 }
+
+.img-conteiner {
+    width: 200px;
+    height: 200px;
+    background-image: url(img/photo_2023-07-03_12-42-29.jpg);
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 50px;
+
+}
