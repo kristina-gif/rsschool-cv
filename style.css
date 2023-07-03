@@ -9,12 +9,12 @@
 
 .left-column {
     height: 50px;
-    background: blue;
+    background: rgb(8, 8, 8);
 }
 
 .right-column {
     height: 50px;
-    background: green;
+    background: rgb(147, 148, 147);
 }
 
 .img-conteiner {
@@ -27,5 +27,8 @@
     background-attachment: scroll;
     background-size: cover;
     margin: 50px;
+}
 
+.title {
+    font-family: 'Roboto', sans-serif;
 }
