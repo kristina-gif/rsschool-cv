@@ -46,3 +46,10 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
 }
+
+.progress-conteiner {
+
+    width: 265px;
+    display: flex;
+    justify-content: space-between;
+}
