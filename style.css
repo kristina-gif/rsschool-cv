@@ -42,7 +42,8 @@
 }
 
 .info {
-    font-size: 20px;
+    background-color: azure;
+    font-size: 27px;
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
 }
@@ -52,4 +53,10 @@
     width: 265px;
     display: flex;
     justify-content: space-between;
+}
+
+.column {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
 }
