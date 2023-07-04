@@ -13,7 +13,7 @@
 }
 
 .right-column {
-    height: 1000pxpx;
+    height: 1000px;
     background: rgb(211, 214, 211);
 }
 
@@ -49,7 +49,6 @@
 }
 
 .progress-conteiner {
-
     width: 265px;
     display: flex;
     justify-content: space-between;
