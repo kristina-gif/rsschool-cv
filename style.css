@@ -8,12 +8,10 @@
 }
 
 .left-column {
-    height: 1000px;
     background: rgb(112, 110, 110);
 }
 
 .right-column {
-    height: 1000px;
     background: rgb(211, 214, 211);
 }
 
@@ -41,7 +39,7 @@
     font-weight: 100;
 }
 
-.info {
+.heading {
     background-color: azure;
     font-size: 27px;
     font-family: 'Roboto', sans-serif;
@@ -58,4 +56,13 @@
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
+}
+
+.img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.img:hover {
+    transform: scale(1.1);
 }
