@@ -83,6 +83,10 @@
     margin: 10px;
 }
 
+.logo:hover {
+    transform: scale(1.1);
+}
+
 .logo {
     display: block;
     width: 50px;
