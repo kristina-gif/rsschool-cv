@@ -1,0 +1,106 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 10px;
+}
+
+.nav-element {
+    list-style-type: none;
+}
+
+.main {
+    display: flex;
+    width: 800px;
+
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.left-column,
+.right-column {
+    flex: 1;
+}
+
+.left-column {
+    background: rgb(112, 110, 110);
+}
+
+.right-column {
+    background: rgb(211, 214, 211);
+}
+
+.img-conteiner {
+    width: 200px;
+    height: 200px;
+    background-image: url(img/photo_2023-07-03_12-42-29.jpg);
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 50px;
+}
+
+.title {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+.text {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+.heading {
+    background-color: azure;
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+.progress-conteiner {
+    width: 265px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+.img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.img:hover {
+    transform: scale(1.1);
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
+
+.logo {
+    display: block;
+    width: 50px;
+    height: 20px;
+    background-image: url(/img/rs_school_js.svg);
+}
